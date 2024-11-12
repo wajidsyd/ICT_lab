@@ -1,2 +1,3 @@
 # ICT_lab
-br  #include <iostream>
+#include <iostream> <br>
+using namespsce std
